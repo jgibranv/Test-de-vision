@@ -21,7 +21,6 @@ struct IshiharaView: View {
             VStack{
                 VStack{
                     Text("Prueba Ishihara")
-                        .font(.Gill(size:48))
                         .foregroundColor(Color("MidnightBlue"))
                         .padding(.top, 50)
                     
