@@ -37,7 +37,6 @@ struct PictureCellView: View {
                         Section{
                             Text("¿Qué número es?:")
                             TextField("Enter answer...", text: $answer)
-                                .font(.Gulim(size: 18))
                                 .multilineTextAlignment(.center)
                         }
                     }//VStack Imagen
