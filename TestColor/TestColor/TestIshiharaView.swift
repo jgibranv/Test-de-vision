@@ -32,7 +32,6 @@ struct TestIshiharaView: View {
                             .edgesIgnoringSafeArea(/*@START_MENU_TOKEN@*/.all/*@END_MENU_TOKEN@*/)
                         VStack{
                             Text("Test Ishihara")
-                                .font(.custom("Anton-Regular",size:30))
                                 .foregroundColor(Color("LYNX WHITE"))
                             //Spacer()
                         }
